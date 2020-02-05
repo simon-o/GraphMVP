@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_BrilliantBasics_TestVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_BrilliantBasics_TestVersionString[];
+FOUNDATION_EXPORT double Pods_graphVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_graphVersionString[];
 
